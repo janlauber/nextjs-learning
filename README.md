@@ -1,2 +1,1 @@
-# nextjs-learning
-My repository to learn the react framework NextJS
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
